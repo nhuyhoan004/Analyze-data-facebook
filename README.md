@@ -1,4 +1,4 @@
-# Final_project
+# Analyze facebook
 1. Giải thích các file
    + Crawl_Data.ipynb : Thu thập dữ liệu  [here](Crawl_Data.ipynb) 
    + Data_cleaning_preprocessing.ipynb : Làm sạch dữ liệu [here](Data_cleaning_preprocessing.ipynb)
